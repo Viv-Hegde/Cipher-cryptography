@@ -1,5 +1,5 @@
 # Cipher-cryptography
-The Caeser's cipher (a type of sustitution cipher) is one of the earliest and simplest method of encrypting text.
+The Caeser's cipher (a sustitution cipher) is one of the earliest and simplest method of encrypting text.
 This is a project to encrypt words or phrases using the Caesar's cipher
 
 Download all the files and run the Driver
