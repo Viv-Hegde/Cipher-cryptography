@@ -7,7 +7,7 @@ public class Driver {
     int userKey;
     System.out.print("Enter a word/phrase you want to encrypt(CAPS): ");
     plainText = keyboard.next();
-    System.out.print("Enter your secret cipher key:");
+    System.out.print("Enter your secret cipher key (ANY number):");
     userKey = keyboard.nextInt();
     System.out.println("\n*********************ENCRYPTING*********************");
 
